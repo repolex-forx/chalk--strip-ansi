@@ -1,0 +1,11 @@
+{
+  "org": "chalk",
+  "repo": "strip-ansi",
+  "versions": [
+    {
+      "commit": "38ff9f2282540422031ed523f0060c7bb575e20f",
+      "tag": "v7.2.0",
+      "parsed_at": "2026-09-28T19:08:26.106671+00:00"
+    }
+  ]
+}
