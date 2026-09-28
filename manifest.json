@@ -73,7 +73,9 @@
           "githubUrl": "git+https://github.com/xojs/xo.git",
           "source": "build_file:package.json"
         }
-      ]
+      ],
+      "repolex": "aggregate/repolex/38ff9f2282540422031ed523f0060c7bb575e20f/chunk-001.nq.gz",
+      "dep": "dep/38ff9f2282540422031ed523f0060c7bb575e20f.nq.gz"
     }
   ],
   "commit": "commit/commit.nq.gz",
