@@ -26,6 +26,53 @@
       ],
       "ast": [
         "aggregate/ast/38ff9f2282540422031ed523f0060c7bb575e20f/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/38ff9f2282540422031ed523f0060c7bb575e20f.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "ansi-regex",
+          "ecosystem": "NPM",
+          "version": "6.2.2",
+          "githubOrg": "chalk",
+          "githubRepo": "ansi-regex",
+          "githubCommit": "94983fc6ba00e1e9657f72c07eb7b9c75e4011a2",
+          "githubTag": "v6.2.2",
+          "githubUrl": "git+https://github.com/chalk/ansi-regex.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "ava",
+          "ecosystem": "NPM",
+          "version": "6.4.1",
+          "githubOrg": "avajs",
+          "githubRepo": "ava",
+          "githubCommit": "603d7ca2ada70f3e9e79ee5002a509f0646cb37c",
+          "githubTag": "v6.4.1",
+          "githubUrl": "git+https://github.com/avajs/ava.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "tsd",
+          "ecosystem": "NPM",
+          "version": "0.33.0",
+          "githubOrg": "tsdjs",
+          "githubRepo": "tsd",
+          "githubCommit": "9b8d615abd09c6760988b4499b53ac7074f8cc92",
+          "githubTag": "v0.33.0",
+          "githubUrl": "git+https://github.com/tsdjs/tsd.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "xo",
+          "ecosystem": "NPM",
+          "version": "1.2.3",
+          "githubOrg": "xojs",
+          "githubRepo": "xo",
+          "githubCommit": "5477c4a75911ef8aa219d3258886148a130c118a",
+          "githubTag": "v1.2.3",
+          "githubUrl": "git+https://github.com/xojs/xo.git",
+          "source": "build_file:package.json"
+        }
       ]
     }
   ],
